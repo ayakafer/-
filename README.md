@@ -20,7 +20,9 @@ paste proxy in proxy.txt:
 
 format http://username:password@ip:port or socks5://username:password@ip:port
 nano proxy.txt
-Auto Referral / create new wallets
+
+Auto Referral / create new wallets:
 npm run autoref
+
 Run the script:
 npm run start
